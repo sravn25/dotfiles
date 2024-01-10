@@ -3,3 +3,5 @@
 	name = sravn25
 [credential]
 	helper = store
+[pull]
+	ff = only
