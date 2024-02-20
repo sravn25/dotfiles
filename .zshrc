@@ -114,4 +114,7 @@ cheatsh() {
 }
 
 eval "$(zoxide init zsh)"
-neofetch
+victor
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+export PATH=$PATH:/usr/local/go/bin
